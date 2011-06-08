@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>name</key>
+	<string>CanCan</string>
+	<key>ordering</key>
+	<array>
+		<string>FF5C114E-66A2-458D-B3D1-9F73798EEFF0</string>
+		<string>B362AA02-1973-4F0E-8680-740A51F8D320</string>
+		<string>12478284-5DA0-4852-871A-83221A2DEA76</string>
+		<string>0E090EBD-ACDA-4EFC-9B22-8DCAFFB3B967</string>
+		<string>B0CD285D-2774-4B4D-8253-39A16B020ECE</string>
+		<string>00BFD3F3-E179-4E59-8132-233469CF701B</string>
+		<string>DAFAB8D9-45D1-4953-B970-060D222CED88</string>
+		<string>487B4A6E-B8D1-40DD-AA18-274BE4283023</string>
+	</array>
+	<key>uuid</key>
+	<string>146DF4B5-7016-464B-9226-99423A42EE39</string>
+</dict>
+</plist>
