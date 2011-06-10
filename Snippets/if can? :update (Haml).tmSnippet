@@ -6,9 +6,9 @@
 	<string>if can? :update, ${0:value}
 </string>
 	<key>name</key>
-	<string>if can? :update (Haml)</string>
+	<string>if can? :update</string>
 	<key>scope</key>
-	<string>text.haml</string>
+	<string>text.haml, text.html.ruby</string>
 	<key>tabTrigger</key>
 	<string>cu</string>
 	<key>uuid</key>

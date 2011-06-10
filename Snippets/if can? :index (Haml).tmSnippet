@@ -6,9 +6,9 @@
 	<string>if can? :index, ${0:Model}
 </string>
 	<key>name</key>
-	<string>if can? :index (Haml)</string>
+	<string>if can? :index</string>
 	<key>scope</key>
-	<string>text.haml</string>
+	<string>text.haml, text.html.ruby</string>
 	<key>tabTrigger</key>
 	<string>ci</string>
 	<key>uuid</key>

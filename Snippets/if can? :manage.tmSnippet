@@ -6,9 +6,9 @@
 	<string>if can? :manage, ${0:Model}
 </string>
 	<key>name</key>
-	<string>if can? :manage (Haml)</string>
+	<string>if can? :manage</string>
 	<key>scope</key>
-	<string>text.haml</string>
+	<string>text.haml, text.html.ruby</string>
 	<key>tabTrigger</key>
 	<string>cm</string>
 	<key>uuid</key>

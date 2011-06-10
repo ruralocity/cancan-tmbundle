@@ -3,15 +3,15 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>if can? :destroy, ${0:value}
+	<string>cannot :update, ${0:Model}
 </string>
 	<key>name</key>
-	<string>if can? :destroy</string>
+	<string>cannot :update</string>
 	<key>scope</key>
-	<string>text.haml, text.html.ruby</string>
+	<string>source.ruby.rails</string>
 	<key>tabTrigger</key>
-	<string>cd</string>
+	<string>ctu</string>
 	<key>uuid</key>
-	<string>6B730203-2456-4391-BE8A-AF69D8863818</string>
+	<string>E6F6643B-FCF2-422A-B29C-0DD566DB326A</string>
 </dict>
 </plist>
