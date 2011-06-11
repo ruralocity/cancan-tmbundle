@@ -8,6 +8,7 @@
 		<array>
 			<string>17375092-51C2-4DB8-BF3D-A8F92E052EAE</string>
 			<string>5340ECED-2D68-41C8-918F-85896FBA7CAF</string>
+			<string>95A286C0-0737-4998-B348-ED9F2B844939</string>
 		</array>
 		<key>submenus</key>
 		<dict>
@@ -68,6 +69,20 @@
 				<key>name</key>
 				<string>can</string>
 			</dict>
+			<key>95A286C0-0737-4998-B348-ED9F2B844939</key>
+			<dict>
+				<key>items</key>
+				<array>
+					<string>5524CA85-35B3-4F3F-83E2-8BA33F4F3C66</string>
+					<string>8CCAA612-572B-48BE-8B82-7641C83D67B1</string>
+					<string>C1FF5B4D-BEFB-4FA9-A7FE-1A0F12B56B69</string>
+					<string>0C5428EC-6035-491E-8715-F81624D2E1DC</string>
+					<string>0C1F0932-E913-427A-A3B8-2ED1CC2155EA</string>
+					<string>035D0E83-7C92-4714-ACAD-954674796399</string>
+				</array>
+				<key>name</key>
+				<string>controller filters</string>
+			</dict>
 		</dict>
 	</dict>
 	<key>name</key>
@@ -97,6 +112,12 @@
 		<string>7C7A1DAB-A05C-4D46-BE1B-44AEAC052852</string>
 		<string>6B730203-2456-4391-BE8A-AF69D8863818</string>
 		<string>7BD1F6AB-72C8-44F8-8F3B-C5C31AC28FE3</string>
+		<string>5524CA85-35B3-4F3F-83E2-8BA33F4F3C66</string>
+		<string>8CCAA612-572B-48BE-8B82-7641C83D67B1</string>
+		<string>C1FF5B4D-BEFB-4FA9-A7FE-1A0F12B56B69</string>
+		<string>0C5428EC-6035-491E-8715-F81624D2E1DC</string>
+		<string>0C1F0932-E913-427A-A3B8-2ED1CC2155EA</string>
+		<string>035D0E83-7C92-4714-ACAD-954674796399</string>
 	</array>
 	<key>uuid</key>
 	<string>146DF4B5-7016-464B-9226-99423A42EE39</string>
