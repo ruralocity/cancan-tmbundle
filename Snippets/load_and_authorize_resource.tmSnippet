@@ -7,7 +7,7 @@
 	<key>name</key>
 	<string>load_and_authorize_resource</string>
 	<key>scope</key>
-	<string>meta.rails.controller</string>
+	<string>meta.rails.controller,source.ruby</string>
 	<key>tabTrigger</key>
 	<string>lar</string>
 	<key>uuid</key>
